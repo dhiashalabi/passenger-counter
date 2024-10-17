@@ -8,11 +8,6 @@ This is a simple web application that allows you to count and save the number of
 - **Save Count**: Click the "SAVE" button to log the current count and reset the counter to zero.
 - **Display Previous Entries**: The app displays all saved counts as a record of previous entries.
 
-## Demo
-
-![Passenger Counter Demo](station.jpg)
-
-
 ## Live Demo
 
 You can view a live demo of the Passenger Counter app [here](https://passenger-counter.dhiashalabi.info/).
