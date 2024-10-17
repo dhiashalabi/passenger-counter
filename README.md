@@ -10,7 +10,7 @@ This is a simple web application that allows you to count and save the number of
 
 ## Live Demo
 
-You can view a live demo of the Passenger Counter app [here](https://passenger-counter.dhiashalabi.info/).
+You can view a live demo of the Passenger Counter app [here](https://passenger-counter.dhiashalabi.live/).
 
 ## Technologies Used
 
